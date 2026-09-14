@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/milanstoyanovich/Desktop/game/Vzihk-lab1/Server/Vzihk.Server.csproj": {}
+    "/Users/milanstoyanovich/Documents/GitHub/Vzihk/Server/Vzihk.Server.csproj": {}
   },
   "projects": {
-    "/Users/milanstoyanovich/Desktop/game/Vzihk-lab1/Common/Vzihk.Common.csproj": {
+    "/Users/milanstoyanovich/Documents/GitHub/Vzihk/Common/Vzihk.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/milanstoyanovich/Desktop/game/Vzihk-lab1/Common/Vzihk.Common.csproj",
+        "projectUniqueName": "/Users/milanstoyanovich/Documents/GitHub/Vzihk/Common/Vzihk.Common.csproj",
         "projectName": "Vzihk.Common",
-        "projectPath": "/Users/milanstoyanovich/Desktop/game/Vzihk-lab1/Common/Vzihk.Common.csproj",
+        "projectPath": "/Users/milanstoyanovich/Documents/GitHub/Vzihk/Common/Vzihk.Common.csproj",
         "packagesPath": "/Users/milanstoyanovich/.nuget/packages/",
-        "outputPath": "/Users/milanstoyanovich/Desktop/game/Vzihk-lab1/Common/obj/",
+        "outputPath": "/Users/milanstoyanovich/Documents/GitHub/Vzihk/Common/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/milanstoyanovich/.nuget/NuGet/NuGet.Config"
@@ -339,14 +339,14 @@
         }
       }
     },
-    "/Users/milanstoyanovich/Desktop/game/Vzihk-lab1/Server/Vzihk.Server.csproj": {
+    "/Users/milanstoyanovich/Documents/GitHub/Vzihk/Server/Vzihk.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/milanstoyanovich/Desktop/game/Vzihk-lab1/Server/Vzihk.Server.csproj",
+        "projectUniqueName": "/Users/milanstoyanovich/Documents/GitHub/Vzihk/Server/Vzihk.Server.csproj",
         "projectName": "Vzihk.Server",
-        "projectPath": "/Users/milanstoyanovich/Desktop/game/Vzihk-lab1/Server/Vzihk.Server.csproj",
+        "projectPath": "/Users/milanstoyanovich/Documents/GitHub/Vzihk/Server/Vzihk.Server.csproj",
         "packagesPath": "/Users/milanstoyanovich/.nuget/packages/",
-        "outputPath": "/Users/milanstoyanovich/Desktop/game/Vzihk-lab1/Server/obj/",
+        "outputPath": "/Users/milanstoyanovich/Documents/GitHub/Vzihk/Server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/milanstoyanovich/.nuget/NuGet/NuGet.Config"
@@ -362,8 +362,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/milanstoyanovich/Desktop/game/Vzihk-lab1/Common/Vzihk.Common.csproj": {
-                "projectPath": "/Users/milanstoyanovich/Desktop/game/Vzihk-lab1/Common/Vzihk.Common.csproj"
+              "/Users/milanstoyanovich/Documents/GitHub/Vzihk/Common/Vzihk.Common.csproj": {
+                "projectPath": "/Users/milanstoyanovich/Documents/GitHub/Vzihk/Common/Vzihk.Common.csproj"
               }
             }
           }

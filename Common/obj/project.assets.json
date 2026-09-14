@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/milanstoyanovich/Desktop/game/Vzihk-lab1/Common/Vzihk.Common.csproj",
+      "projectUniqueName": "/Users/milanstoyanovich/Documents/GitHub/Vzihk/Common/Vzihk.Common.csproj",
       "projectName": "Vzihk.Common",
-      "projectPath": "/Users/milanstoyanovich/Desktop/game/Vzihk-lab1/Common/Vzihk.Common.csproj",
+      "projectPath": "/Users/milanstoyanovich/Documents/GitHub/Vzihk/Common/Vzihk.Common.csproj",
       "packagesPath": "/Users/milanstoyanovich/.nuget/packages/",
-      "outputPath": "/Users/milanstoyanovich/Desktop/game/Vzihk-lab1/Common/obj/",
+      "outputPath": "/Users/milanstoyanovich/Documents/GitHub/Vzihk/Common/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/milanstoyanovich/.nuget/NuGet/NuGet.Config"
