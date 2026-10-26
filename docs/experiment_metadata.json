@@ -1,0 +1,15 @@
+{
+  "transport": "real UDP over IPv4 loopback through an asyncio user-space impairment proxy",
+  "loss_model": "independent drop probability in EACH direction, applied to commands, ACK, responses and PING/PONG",
+  "delay_model": "one-way fixed delay + uniform jitter; negative delays clamped to zero",
+  "commands_per_series": 60,
+  "max_attempts": 5,
+  "rto_bounds_ms": [
+    100,
+    3000
+  ],
+  "initial_rto_ms": 1000,
+  "command_interval_ms": 50,
+  "ping_interval_ms": 250,
+  "note": "Seed fixes PRNG draws; OS scheduling and datagram order still affect timings and exact outcomes."
+}

@@ -7,4 +7,9 @@
     <RootNamespace>Vzihk.Common</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="../protocol/*.cs" Link="protocol/%(Filename)%(Extension)" />
+    <Compile Include="../reliability/*.cs" Link="reliability/%(Filename)%(Extension)" />
+    <Compile Include="../telemetry/*.cs" Link="telemetry/%(Filename)%(Extension)" />
+  </ItemGroup>
 </Project>

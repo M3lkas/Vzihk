@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vzihk.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90bee1791082144ee6bab19dd5192ac11dc1faf0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47489352b73c1415c0818b2ebf24e8863e38e155")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vzihk.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vzihk.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
